@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LAKSHINDK-20/LAKSHINDK-20/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LAKSHINDK-20/LAKSHINDK-20/blob/main/.github/workflows/pacman.yml" alt="Snake animation" />
 
 ###
